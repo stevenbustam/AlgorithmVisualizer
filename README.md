@@ -31,7 +31,7 @@ Algorithm Visualizer turns abstract algorithms into real-time, animated visuals.
 - AVL / Red-Black tree rotations (optional stretch goal)
 
 
-## Project Structure (suggested)
+## Project Structure
 
 ```
 AlgorithmVisualizer/
