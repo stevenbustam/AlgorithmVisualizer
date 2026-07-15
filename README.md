@@ -58,5 +58,3 @@ AlgorithmVisualizer/
 - Algorithm race mode (compare two algorithms side by side on the same data)
 
 ---
-
-Feel free to trim this down or expand specific sections (e.g., add screenshots/GIFs, a live demo link, and installation instructions) once the implementation is further along.
